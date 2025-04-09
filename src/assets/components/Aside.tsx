@@ -1,16 +1,11 @@
 import { NavLink } from 'react-router-dom';
 
+import './Aside.css';
 import Button from './Button';
 
 function Aside() {
-  const AsideStyle = {
-    borderWidth: '1px',
-    borderStyle: 'solid',
-    borderColor: 'black',
-  };
-
   return (
-    <aside style={AsideStyle}>
+    <aside className="Aside">
       <h1>Navigation</h1>
       <div>
         <nav>
