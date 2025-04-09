@@ -4,9 +4,10 @@
     height: 100%;
     align-content: center;
     justify-content: space-around;
-    border-width: 1px;
+    border-width: 5px;
     border-style: solid;
     border-color: black;
     overflow-y: auto;
     position: fixed;
+    background-color: #20284E;
   };
