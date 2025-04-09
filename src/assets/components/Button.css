@@ -1,0 +1,17 @@
+.button {
+    font-size: medium;
+    padding: 10px;
+    display: flex;
+    margin: 10px;
+    width: 100px;
+    justify-content: center;
+}
+
+.button:hover {
+    font-weight: bold;
+}
+
+.button-container{
+    justify-content: space-between;
+    margin: 0 10px;
+}

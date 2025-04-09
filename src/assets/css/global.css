@@ -1,0 +1,10 @@
+.app-container {
+    display: flex;
+    height: 100%;
+}
+
+.main-content {
+    width: 75%;
+    justify-content: center;
+    margin-left: 20%;
+}
