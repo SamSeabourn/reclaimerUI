@@ -12,8 +12,8 @@ function Aside() {
           <NavLink to="/">
             <Button>Home</Button>
           </NavLink>
-          <NavLink to="/Example1">
-            <Button>Page 1</Button>
+          <NavLink to="/ButtonsPage">
+            <Button>Button page</Button>
           </NavLink>
           <NavLink to="/Example2">
             <Button>Page 2</Button>
